@@ -209,8 +209,6 @@ Average Time = Total Solve Time / Number of Attempts
 
 ---
 
----
-
 
 # Security Findings
 
@@ -240,12 +238,6 @@ To improve CAPTCHA security:
 - Use adaptive CAPTCHA difficulty.
 - Integrate invisible CAPTCHA mechanisms.
 - Adopt modern challenge-response systems such as reCAPTCHA or hCaptcha where appropriate.
-
-
-
-
-
-
 
 ---
 
