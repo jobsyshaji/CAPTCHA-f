@@ -59,7 +59,7 @@ The primary objective is to identify vulnerabilities in CAPTCHA design and provi
 
 # System Architecture
 
-``
+
              User Request
                   │
                   ▼
@@ -93,7 +93,7 @@ The primary objective is to identify vulnerabilities in CAPTCHA design and provi
         └─────────┬─────────┘
                   ▼
          Store Experimental Results
-```
+
 
 ---
 
