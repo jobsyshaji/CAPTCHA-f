@@ -226,7 +226,7 @@ The experimental evaluation revealed several observations:
 
 ---
 
-# Security Recommendations
+# Recommendations
 
 To improve CAPTCHA security:
 
@@ -241,52 +241,8 @@ To improve CAPTCHA security:
 - Integrate invisible CAPTCHA mechanisms.
 - Adopt modern challenge-response systems such as reCAPTCHA or hCaptcha where appropriate.
 
----
-
-# Limitations
-
-- Evaluation focused on OCR-based attacks.
-- Deep learning CAPTCHA solvers were not included.
-- Audio CAPTCHA was not evaluated.
-- Mobile CAPTCHA systems were outside the scope.
-- Behavioral CAPTCHA mechanisms were not tested.
-
----
-
-# Future Improvements
-
-- CNN-based CAPTCHA solver
-- Deep Learning OCR
-- YOLO-based CAPTCHA segmentation
-- Adversarial CAPTCHA generation
-- GAN-generated CAPTCHA datasets
-- hCaptcha evaluation
-- Google reCAPTCHA comparison
-- Machine Learning attack detection
-- Real-time analytics dashboard
-
----
-
-# Project Structure
 
 
-CAPTCHA-f/
-│
-├── README.md
-├── app.py
-├── captcha_generator.py
-├── bot_attack.py
-├── preprocess.py
-├── ocr_solver.py
-├── requirements.txt
-├── results.csv
-├── images/
-├── screenshots/
-├── docs/
-└── LICENSE
-```
-
----
 
 
 
